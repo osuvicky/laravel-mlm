@@ -24,6 +24,8 @@
                         <ul>
                             <li>{{$memb->referral_code}}</li>
                             <li>{{$memb->email}}</li>
+                            <li>{{$memb->referral_code}}</li>
+                            <li>{{$memb->email}}</li>
                         </ul>
                         @endforeach
                    
